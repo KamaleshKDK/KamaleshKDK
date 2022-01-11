@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamalesh Kanna</h1>
 <h3 align="center">Full-Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamaleshkdk&label=Profile%20views&color=0e75b6&style=flat" alt="kamaleshkdk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamaleshkdk" alt="kamaleshkdk" /></a> </p>
-
 <h3 align="left">Connect with me: kamaleshkdk@gmail.com</h3>
 <p align="left">
 </p>
